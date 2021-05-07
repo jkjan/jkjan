@@ -9,11 +9,6 @@
 </a>
 
   
-  
-## My Wakatime Stats ⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="@jkjan&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@jkjan&compact=True"/>
-</a>  
 
 
-[![jkjan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkjan)](https://github.com/anuraghazra/github-readme-stats)
+![jkjan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jkjan)](https://github.com/anuraghazra/github-readme-stats)
